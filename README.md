@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/priynashu](https://github.com/priynashu)
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **Full Stack**
 
 - 📫 How to reach me **pmjshah11@gmail.com**
 
