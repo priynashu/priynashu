@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Shah</h1>
 <h3 align="center">An aspiring software developer👨🏻‍💻</h3>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/priynashu](https://github.com/priynashu)
 
-- 💬 Ask me about **Full Stack**
+- 💬 Ask me about **Technologies**
 
 - 📫 How to reach me **pmjshah11@gmail.com**
 
-- ⚡ Fun fact **I love to code backend**
+- ⚡ Fun fact **I love to solve problems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
